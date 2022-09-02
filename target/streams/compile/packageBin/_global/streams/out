@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/charles/tpcds-build/target/scala-2.12/tpcds_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/charles/tpcds-build/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/charles/tpcds-build/target/scala-2.12/classes/com/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/Tpcds$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/charles/tpcds-build/target/scala-2.12/classes/com/example/Tpcds$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/Tpcds.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/charles/tpcds-build/target/scala-2.12/classes/com/example/Tpcds.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
